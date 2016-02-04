@@ -58,7 +58,7 @@ by this program.
    reference: https://www.youtube.com/watch?v=tNjy91g2Rak                             
    http://blog.inurl.com.br/2015/03/dslink-260e-defaut-passwords-dns-change_17.html 
 
-### Requeriments
+### Requirements
 ```
 import sys, os, argparse, itertools, requests, random, time, threading, base64, socket
 from datetime import datetime
