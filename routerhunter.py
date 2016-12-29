@@ -12,16 +12,7 @@
 # Fapage InurlBrasil Team: https://fb.com/InurlBrasil
 #===============================================================================================================================================
 
-import sys
-import os
-import argparse
-import itertools
-import requests
-import random
-import time
-import threading
-import base64
-import socket
+import sys,os,argparse,itertools,requests,random,time,threading,base64,socket
 from datetime import datetime
  
 banner = """
