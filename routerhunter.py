@@ -6,6 +6,7 @@
 # Tool used to find and perform tests in vulnerable routers on the internet.
 # Facebook: https://fb.com/JhonVipNet
 # Blog: http://blog.inurl.com.br - https://jh00nsec.wordpress.com
+# jh00nbr: http://jhonathandavi.com.br
 # Twitter: https://twitter.com/jh00nbr
 # Github: https://github.com/jh00nbr/
 # Channel: https://www.youtube.com/c/Mrsinisterboy
